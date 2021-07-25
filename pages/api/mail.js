@@ -1,7 +1,8 @@
-const mail = require('@sendgrid/mail');
+//const mail = require('@sendgrid/mail');
 //const fs = require('fs');
 
-mail.setApiKey("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");
+//Key Name which you using sendgrid.
+//mail.setApiKey();
 
 //const imageData = `${__dirname}/image.jpg`;
 //const imageb64 = fs.readFileSync(imageData).toString("base64");
